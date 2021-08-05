@@ -1,5 +1,6 @@
 # attiny85 FM Radio based on TEA5767
 Fm radio based on attiny85, TEA5767 and rotary encoder.
+https://mcinm.pl/radio-fm-diy-na-attiny85-i-module-tea5767/
 
 ![attiny85_TEA5767](https://mcinm.pl/wp-content/uploads/2021/08/radio_fm-min-900x480.jpg)
 
